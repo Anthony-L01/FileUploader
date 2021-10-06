@@ -1,0 +1,10 @@
+com\lxc\Dao\impl\UserDaoImpl.class
+com\lxc\service\UserService.class
+com\lxc\service\impl\UserServiceImpl.class
+com\lxc\web\UploadServlet.class
+com\lxc\Dao\impl\BaseDao.class
+com\lxc\Dao\UserDao.class
+com\lxc\web\RegistServlet.class
+com\lxc\pojo\User.class
+com\lxc\Utils\JdbcUtils.class
+com\lxc\web\LoginServlet.class
